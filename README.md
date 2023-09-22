@@ -11,4 +11,4 @@ A "tkinter" könyvtárat használjuk az ablak megjelenítéséhez.
 
 Itt láthatod, hogy fog kinézni:
 
-![Example Image](https://github.com/itbetyar/Merfold-kilometer-kalkulator/blob/main/mile-to-km.png)
+<img src="https://github.com/itbetyar/Merfold-kilometer-kalkulator/blob/main/mile-to-km.png" alt="Alt text" width="600">
