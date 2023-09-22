@@ -1,7 +1,8 @@
-# IT Betyar 2022 - Merfol - kilometer atvalto
+# IT Betyar 2022 - Merfold - kilometer atvalto
 
 import tkinter as tk      # library importalas
-from tkinter import ttk   # Itt tobb ujabb widgetek van
+# from tkinter import ttk   # Itt tobb ujabb widgetek van
+import ttkbootstrap as ttk
 
 def convert():            # A convert funkcio letrehozasa
     # print(entry.get())
@@ -10,19 +11,19 @@ def convert():            # A convert funkcio letrehozasa
     output_string.set(km_output)   # az output_string valtozot feltoltjuk a km ertekkel
 
 # Program ablak letrehozasa
-window = tk.Tk()
+window = ttk.Window(themename='darkly')
 window.title('Mile to Kilometer')
-window.geometry('300x150')
+window.geometry('400x200')
 
 # Focim felirat
 title_label = ttk.Label(master = window, text = 'Miles to kilometers', font = 'Calibri 24 bold')
-title_label.pack()
+title_label.pack(pady = 10)
 
 # input field - beviteli mezo
 # pack method = egymas ala helyezi a teteleket
 input_frame = ttk.Frame(master = window)
 entryInt = tk.IntVar()                   # spec object entry field value tarolasra
-entry = ttk.Entry(master= input_frame, textvariable=entryInt)  # itt megadjuk
+entry = ttk.Entry(master= input_frame, textvariable=entryInt, font = 'Calibri 12')  # itt megadjuk
 button = ttk.Button(master= input_frame, text = 'Convert', command = convert)
 entry.pack(side = 'left', padx = 10)
 button.pack(side = 'left')
