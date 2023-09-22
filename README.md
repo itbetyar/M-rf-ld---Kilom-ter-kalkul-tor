@@ -1,4 +1,4 @@
-# Merfold-kilometer-kalkulator
+# Merfold kilometer kalkulator
 
 ## Nehézségi szint: Kezdő - közép
 #### ~40 sor kód
