@@ -13,4 +13,4 @@ Itt láthatod, hogy fog kinézni:
 
 ![Example Image](https://github.com/itbetyar/Merfold-kilometer-kalkulator/blob/main/mile-to-km.png){width=300px height=200px}
 
-<img src="[relative_path_to_image](https://github.com/itbetyar/Merfold-kilometer-kalkulator/blob/main/mile-to-km.png)" alt="Alt text" width="300" height="200">
+<img src="https://github.com/itbetyar/Merfold-kilometer-kalkulator/blob/main/mile-to-km.png" alt="Alt text" width="300" height="200">
