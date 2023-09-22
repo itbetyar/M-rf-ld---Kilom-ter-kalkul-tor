@@ -1,5 +1,9 @@
 # Merfold-kilometer-kalkulator
 
+### Nehézségi szint: Kezdő - közép
+
+### Mit tanulhatsz?
+Egy kalkulátor létrehozásán kívül grafikai kezelőfelületet (GUI) is létrehozunk.
+
 Ebben a projektben létrehozunk egy programot, ami átváltja a beírt mérföld értéket kilométerbe.
-Egyszerű kezdő python project.
-A "tkinter" lönyvtárat használjuk az ablak megjelenítéséhez.
+A "tkinter" könyvtárat használjuk az ablak megjelenítéséhez.
