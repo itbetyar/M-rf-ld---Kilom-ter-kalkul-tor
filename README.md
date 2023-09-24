@@ -1,6 +1,7 @@
-# Merfold kilometer kalkulator
+# Mérföld kilométer kalkulátor
+Grafikus kezelő felülettel ellátott kalkulátor
 
-## Nehézségi szint: Kezdő - közép
+## Nehézségi szint: 3-4 / 10
 #### ~40 sor kód
 
 ### Mit tanulhatsz?
